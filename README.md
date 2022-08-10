@@ -3,8 +3,9 @@
 ## Getting started
 
 To clone this repository:
-
-`$ git clone https://github.com/marinadunn/covid19-drug-screening-ML.git`
+```
+$ git clone https://github.com/marinadunn/covid19-drug-screening-ML.git
+```
 
 It's recommended to install dependencies from the file `requirements.txt` in a virtual environment:
 ```
