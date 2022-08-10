@@ -1,4 +1,4 @@
-# covid19-drug-screening-ML
+# Developing ML models using molecular descriptors and 3D atomic representation for rapid screening of drug-like compounds targeting SARS-CoV-2.
 
 ## Getting started
 
