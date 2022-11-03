@@ -4,8 +4,8 @@
 
 To clone this repository:
 ```
-$ git clone https://github.com/marinadunn/covid19-drug-screening-ML.git
-$ cd covid19-drug-screening-ML
+$ git clone https://github.com/marinadunn/covid19-drug-screening-ML.git COVID19-ML
+$ cd COVID19-ML
 ```
 
 It's recommended to install dependencies from the file `requirements.txt` in a virtual environment:
@@ -46,10 +46,10 @@ Authors: Marina M. Dunn, Lance Fletcher, Robert Stephany, Moises Santiago Carden
 
 Please send us an email for any support questions or inquiries:
 
-* Marina M. Dunn (mdunn014 at ucr dot edu)
+* Marina M. Dunn (<mdunn014@ucr.edu>)
 
-* Lance Fletcher (lance dot g dot fletcher at gmail dot com)
+* Lance Fletcher (<lance.g.fletcher@gmail.com>)
 
-* Moises Santiago Cardenas (santiagomoises at berkeley dot edu)
+* Moises Santiago Cardenas (<santiagomoises@berkeley.edu>)
 
-* Robert Stephany (rrs254 at cornell dot edu)
+* Robert Stephany (<rrs254@cornell.edu>)
