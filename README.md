@@ -65,14 +65,12 @@ Task 2:
 
 All code was developed as part of the Lawrence Livermore National Laboratory Data Science Summer Institute 2022 Challenge Problem, testing various ML approaches for screening molecular inhibitors for SARS-CoV-2 protein targets. More information can be found [here.](https://data-science.llnl.gov/dssi/class/2022)
 
-Authors: Marina M. Dunn, Lance Fletcher, Robert Stephany, Moises Santiago Cardenas
+Authors: Marina M. Dunn, Lance Fletcher, Robert Stephany
 
 Please send us an email for any support questions or inquiries:
 
 * Marina M. Dunn (<mdunn014@ucr.edu>)
 
 * Lance Fletcher (<lance.g.fletcher@gmail.com>)
-
-* Moises Santiago Cardenas (<santiagomoises@berkeley.edu>)
 
 * Robert Stephany (<rrs254@cornell.edu>)
